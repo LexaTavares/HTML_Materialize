@@ -1,0 +1,15 @@
+.botones{
+  transform: scaleY(0.4) scaleX(0.4) translateY(0px) translateX(40px);
+  opacity: 0;
+}
+
+
+
+@media{
+  width: 960px;
+}
+@media (max-width:480px){
+  #mycontainer{
+    width: 400px;
+  }
+}
